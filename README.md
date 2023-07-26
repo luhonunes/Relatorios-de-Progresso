@@ -49,6 +49,8 @@ O repositório também inclui os códigos utilizados na análise, o DataFrame co
 
 Para reproduzir a análise, você pode clonar este repositório para o seu ambiente local e executar o código fornecido nos notebooks do Google Colab ou em uma IDE compatível com Jupyter Notebook. Certifique-se de ter as dependências necessárias instaladas.
 
+Você também pode acessar o arquivo no Google Colab em: <https://colab.research.google.com/drive/1j6d692vhqYW6vWlelVpIIsgjWpdBwOmq?usp=sharing>
+
 
 ## Contribuição
 
